@@ -1,5 +1,6 @@
 # Package to create simple translations for a project
 
+
 Usage
 
 ```go
@@ -27,7 +28,7 @@ func main() {
 
 ```
 
-es_MX.Lang
+es_MX.lang
 ```text
 x can not have a value of zero|x no puede tener valor de cero
 Division of %d / %d, is equal to: %d|División de %d / %d, es igual a: %d
